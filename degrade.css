@@ -1,0 +1,16 @@
+#degrade{
+    height: 200px;
+    background: linear-gradient(180deg,blue, red);
+}
+#degrade1{
+    height: 200px;
+    background: linear-gradient(90deg, red,green);
+}
+#degrade2{
+    height: 200px;
+    background: linear-gradient(0deg,yellow, red);
+}
+#degrade3{
+    height: 200px;
+    background: linear-gradient(-90deg, red,yellow);
+}
